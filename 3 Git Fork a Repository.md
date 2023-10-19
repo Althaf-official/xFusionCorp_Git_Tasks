@@ -15,3 +15,6 @@ Note: For these kind of scenarios requiring changes to be done in a web UI, plea
 You may also consider using a screen recording software such as loom.com to record and share your work.
 
 ![Screenshot from 2023-10-19 14-39-19](https://github.com/Althaf-official/KodeKloud_SysAdmin_Git_level1/assets/105126131/b0efd336-7041-41c7-8e96-633488cb8eab)
+
+![Screenshot from 2023-10-19 14-42-25](https://github.com/Althaf-official/KodeKloud_SysAdmin_Git_level1/assets/105126131/c256713c-d608-4a6a-b08d-ed6a8b863f7f)
+
